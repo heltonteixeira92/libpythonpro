@@ -1,7 +1,7 @@
 # libpythonpro
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
-<<<<<<< HEAD
+
 Nesse curso é ensinado como contribuir com projetos de código aberto
 =======
 Nesse curso é ensinado como contribuir com projetos de código aberto.
@@ -29,4 +29,4 @@ Tópicos a serem abordados:
 1. Git
 2. Virtualenv
 3. Pip
->>>>>>> ee0c076c3b11e51dbe924e597f12d4cd92ed1924
+
