@@ -11,7 +11,7 @@ Link do curso [Python pro](https://www.python.pro.br)
 [![Build Status](https://travis-ci.com/heltonteixeira92/libpythonpro.svg?branch=main)](https://travis-ci.com/heltonteixeira92/libpythonpro)
 [![Updates](https://pyup.io/repos/github/heltonteixeira92/libpythonpro/shield.svg)](https://pyup.io/repos/github/heltonteixeira92/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/heltonteixeira92/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/heltonteixeira92/libpythonpro/)
-
+[![codecov](https://codecov.io/gh/heltonteixeira92/libpythonpro/branch/main/graph/badge.svg?token=4OUALYKFQQ)](https://codecov.io/gh/heltonteixeira92/libpythonpro)
 Para Instalar:
 
 '''console
