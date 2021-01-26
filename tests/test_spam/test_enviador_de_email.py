@@ -32,4 +32,3 @@ def test_remetente_invalido(remetente):
             remetente,
             'renzo@python.pro.br'
         )
-
