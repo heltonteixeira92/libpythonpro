@@ -8,6 +8,6 @@ class EnviadorDeSpam:
             self.enviador.enviar(
                 remetente,
                 usuario.email,
-                corpo,
-                assunto
+                assunto,
+                corpo
             )
