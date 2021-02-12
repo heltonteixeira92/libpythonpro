@@ -16,16 +16,16 @@ Suportada versão 3 de Python
 [![codecov](https://codecov.io/gh/heltonteixeira92/libpythonpro/branch/main/graph/badge.svg?token=4OUALYKFQQ)](https://codecov.io/gh/heltonteixeira92/libpythonpro)
 Para Instalar:
 
-'''console
+```console
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements-dev.txt
-'''
+```
 
 Para conferir qualidade de código:
-''' 
+``` 
 flake8
-'''
+```
 
 Tópicos a serem abordados:
 1. Git
