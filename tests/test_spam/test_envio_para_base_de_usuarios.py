@@ -3,7 +3,6 @@ from unittest.mock import Mock
 import pytest
 
 from spam.main import EnviadorDeSpam
-from spam.enviador_de_email import Enviador
 from spam.modelos import Usuario
 
 
